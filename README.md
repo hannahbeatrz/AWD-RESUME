@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannahbeatrz&label=Profile%20views&color=0e75b6&style=flat" alt="hannahbeatrz" /> </p>
 
+- 🌱 I’m currently learning **Javascript, Python, Database Management**
+
 - 👨‍💻 All of my projects are available at [https://github.com/hannahbeatrz/AWD-ACTIVITIES.git](https://github.com/hannahbeatrz/AWD-ACTIVITIES.git)
 
 - 📫 How to reach me **hannahbeatriz1995@gmail.com**
