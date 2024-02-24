@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannahbeatrz&label=Profile%20views&color=0e75b6&style=flat" alt="hannahbeatrz" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/hannahbeatrz/AWD-ACTIVITIES.git](https://github.com/hannahbeatrz/AWD-ACTIVITIES.git)
+
 - 📫 How to reach me **hannahbeatriz1995@gmail.com**
 
 - ⚡ Fun fact **Humor and Respect goes a long way!**
@@ -10,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/hannahbeatrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hannahbeatrz" height="30" width="40" /></a>
+<a href="https://instagram.com/hannahbeatr.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hannahbeatr.z" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
